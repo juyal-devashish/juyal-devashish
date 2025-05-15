@@ -4,7 +4,7 @@ I’m `Devashish`, a graduate student at the University of Michigan!
 - 🌱 Currently exploring: Some ML stuff
 - 🧠 Research interests: Decision-making under uncertainty & information theory  
 - 💬 Languages: English + Hindi
-- 🐶 Pet: Biscuit the dog
+- 🐶 Pet: Biscuit (a dog-toral student)
 - 📫 Contact: [juyal@umich.edu](mailto:juyal@umich.edu) (Biscuit fetched the email for you 🐾)  
 
 
