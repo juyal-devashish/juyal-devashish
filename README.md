@@ -1,7 +1,7 @@
 Hi there 👋🏼  
 I’m `Devashish`, a graduate student at Michigan!
 
-🌱 Currently exploring: Some StatML stuff
+🌱 Currently exploring: Some StatML stuff\\
 🐶 That's my dog, Biscuit 🍪
 🧠 Research interests: Decision making under uncertainity, & information theory
 💬 Fluent in: English + Hindi
