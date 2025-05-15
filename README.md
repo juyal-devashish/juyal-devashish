@@ -1,16 +1,11 @@
 Hi there 👋🏼  
-I’m **Devashish**, a graduate student at the University of Michigan!
+I’m `Devashish`, a graduate student at the University of Michigan!
 
-- 🌱 **Currently exploring:**  
-  Nonparametric statistical machine learning, likelihood-ratio estimation & sequential change detection  
-- 🐶 **Furry friend:**  
-  Biscuit the dog 🍪  
-- 🧠 **Research interests:**  
-  Decision-making under uncertainty & information theory  
-- 💬 **Languages:**  
-  English & Hindi  
-- 📫 **Contact:**  
-  [juyal@umich.edu](mailto:juyal@umich.edu) (Biscuit fetched the email for you 🐾)  
+- 🌱 Currently exploring: Some ML stuff
+- 🧠 Research interests: Decision-making under uncertainty & information theory  
+- 💬 Languages: English + Hindi
+- 🐶 Pet: Biscuit the dog 🍪  
+- 📫 Contact: [juyal@umich.edu](mailto:juyal@umich.edu) (Biscuit fetched the email for you 🐾)  
 
 
 <!---
