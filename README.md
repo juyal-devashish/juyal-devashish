@@ -2,8 +2,11 @@ Hi there 👋🏼
 I’m `Devashish`, a graduate student at Michigan!
 
 🌱 Currently exploring: Some StatML stuff
+
 🧠 Research interests: Decision making under uncertainity, & information theory
+
 💬 Fluent in: English + Hindi  
+
 📫 How to reach me: juyal@umich.edu  
 
 <!---
