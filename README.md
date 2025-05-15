@@ -1,5 +1,5 @@
 Hi there 👋🏼  
-I’m Devashish Juyal (@juyal-devashish), a graduate student at Michigan!
+I’m [![Devashish](https://img.shields.io/badge/Devashish-blue?style=for-the-badge)](https://github.com/juyal-devashish), a graduate student at Michigan!
 
 🌱 I’m currently exploring problems in StatML, recenetly, ML based change detection
 🧠 Research interests: StatML, decision making under uncertainity, & information‐theoretic methods  
