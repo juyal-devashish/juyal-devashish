@@ -6,7 +6,8 @@ I’m `Devashish`, a graduate student at the University of Michigan!
 - 💬 Languages: English + Hindi
 - 🐶 Pet: Biscuit (a **dog**toral student)
 - 📫 Contact: [juyal@umich.edu](mailto:juyal@umich.edu) (Biscuit & Me both can be reached through this email)  
-- 📊 GitHub Stats: 
+- 📊 GitHub Stats:
+  
 ![Devashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyal-devashish&show_icons=true&theme=radical)
 
 <!---
