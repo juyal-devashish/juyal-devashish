@@ -20,5 +20,4 @@ More projects are pinned below.
 Python, TypeScript, SQL · Claude API, PyTorch, RAG, agents, evals · FastAPI, Next.js, PostgreSQL, Docker, AWS
 
 ## Contact
-
-[LinkedIn](https://www.linkedin.com/in/devashish-juyal/) | [djuyal23@gmail.com](mailto:djuyal23@gmail.com)
+[djuyal23@gmail.com](mailto:djuyal23@gmail.com)
