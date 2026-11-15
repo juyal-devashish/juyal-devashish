@@ -19,5 +19,12 @@ More projects are pinned below.
 
 Python, TypeScript, SQL · Claude API, PyTorch, RAG, agents, evals · FastAPI, Next.js, PostgreSQL, Docker, AWS
 
+## GitHub stats
+
+<p>
+  <img height="165" alt="Devashish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=juyal-devashish&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyal-devashish&layout=compact&hide_border=true" />
+</p>
+
 ## Contact
 [djuyal23@gmail.com](mailto:djuyal23@gmail.com)
